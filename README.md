@@ -1,26 +1,60 @@
 # Hi, I’m James Lucas Etot 👋
 
-I’m passionate about using machine learning and computational models to solve real-world energy challenges.  
-My work focuses on energy forecasting, time-series modeling, and automation — with a growing interest in deep learning and sustainability.
+I’m passionate about applying computational methods, machine learning, and large-scale optimization to solve real-world energy system challenges.
 
-I am currently building projects that explore how machine learning can improve decision-making in energy systems. This work is part of my transition from oil and gas field operations to computational energy systems research.
+With over two years of experience in the oil and gas industry and a First-Class Degree in Civil Engineering, I am now actively transitioning into **computational energy systems research**.  
+My work focuses on building machine learning models, automating processes, and using data to improve energy decision-making.
 
-## 🔧 Tools & Interests
-- Python, TensorFlow, Pandas, Scikit-learn
-- Time-series forecasting (ARIMA, SARIMA, LSTM)
-- Process automation using Python and VBA
-- Energy systems, sustainability, and optimization
-- Deep learning for energy data
+---
+
+## 🔭 Current Focus
+- Time-series forecasting using ARIMA, SARIMA, and LSTM models
+- Process automation and data visualization for energy systems
+- Large-scale stochastic optimization and smart energy systems
+- Preparing for PhD applications in computational energy systems
+
+---
 
 ## 📂 Featured Projects
-- [Energy Consumption Forecasting (LSTM)](https://github.com/jameslucasetot256/energy-consumption-lstm)
-- [Energy Forecasting using ARIMA and SARIMA](https://github.com/jameslucasetot256/energy-consumption-forecasting)
+- 🔹 [Energy Consumption Forecasting using LSTM](https://github.com/jameslucasetot256/energy-consumption-lstm)  
+  Developed a TensorFlow LSTM model for hourly energy forecasting that achieved over 95% improvement in prediction accuracy compared to traditional models.
 
-## 🚀 Current Focus
-- Building machine learning models for energy forecasting
-- Preparing for PhD applications in computational energy systems
-- Expanding my GitHub portfolio with deep learning and dashboard projects
+- 🔹 [Energy Forecasting using ARIMA and SARIMA](https://github.com/jameslucasetot256/energy-consumption-forecasting)  
+  Built statistical time-series models to forecast hourly energy consumption and benchmarked them against advanced deep learning models.
+
+- 🔹 Process Automation in Field Reporting using VBA  
+  Automated complex field reporting workflows, reducing reporting time by over 90%.
+
+- 🔹 Energy Systems Visualization Dashboard
+  Building an interactive dashboard to visualize energy trends and forecast outputs.
+
+---
+
+## 📊 Model Performance Snapshot
+
+| Model               | MAE (MW)    | MSE (MW²)     |
+|--------------------|-------------|---------------|
+| Linear Regression  | 5,275.51    | 43,203,776.13 |
+| ARIMA (1, 0, 1)    | 5,331.82    | 43,633,423.47 |
+| SARIMA             | 5,287.31    | 37,107,301.01 |
+| LSTM               | 223.21      | 96,641.84     |
+
+---
+
+## 🛠️ Technical Stack
+- Python (Pandas, NumPy, TensorFlow, Scikit-learn, Matplotlib)
+- VBA for process automation
+- Time-Series Forecasting: ARIMA, SARIMA, LSTM
+- Dashboard Design: Matplotlib, Plotly 
+
+---
+
+## 🚀 Long-Term Goal
+To contribute to interdisciplinary research that improves the resilience and sustainability of global energy systems using machine learning, computational optimization, and data-driven tools.
+
+---
 
 ## 📬 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/jameslucasetot256)
+- [LinkedIn Profile](https://www.linkedin.com/in/jameslucasetot256)
 - GitHub: [jameslucasetot256](https://github.com/jameslucasetot256)
+
