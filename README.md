@@ -1,25 +1,26 @@
 # Hi, I’m James Lucas Etot 👋
 
-I’m passionate about solving real-world energy challenges using machine learning, data science, and optimization. I’m currently transitioning into **computational energy systems research** with a growing interest in forecasting, energy modeling, and automation.
+I’m passionate about using machine learning and computational models to solve real-world energy challenges.  
+My work focuses on energy forecasting, time-series modeling, and automation — with a growing interest in deep learning and sustainability.
 
-I have experience in the oil and gas industry, where I focused on field operations, reporting automation, and troubleshooting. I’m now applying these skills to energy data, building models, and exploring how advanced analytics can improve energy decision-making.
+I am currently building projects that explore how machine learning can improve decision-making in energy systems. This work is part of my transition from oil and gas field operations to computational energy systems research.
 
 ## 🔧 Tools & Interests
-- Python, Pandas, NumPy, Matplotlib, Statsmodels, Scikit-learn
-- Time-series forecasting (ARIMA, SARIMA)
-- Process automation (VBA, Python)
-- Energy systems, sustainability, and data-driven optimization
-- TensorFlow, LSTM models, dashboard development
+- Python, TensorFlow, Pandas, Scikit-learn
+- Time-series forecasting (ARIMA, SARIMA, LSTM)
+- Process automation using Python and VBA
+- Energy systems, sustainability, and optimization
+- Deep learning for energy data
 
 ## 📂 Featured Projects
-- [Energy Consumption Forecasting](https://github.com/jameslucasetot256/energy-consumption-forecasting)
-- Upcoming: Energy Forecasting Dashboard
+- [Energy Consumption Forecasting (LSTM)](https://github.com/jameslucasetot256/energy-consumption-lstm)
+- [Energy Forecasting using ARIMA and SARIMA](https://github.com/jameslucasetot256/energy-consumption-forecasting)
 
 ## 🚀 Current Focus
-- Building forecasting models for energy systems
-- Preparing for PhD applications in energy systems engineering and machine learning
-- Expanding my GitHub portfolio with real-world projects
+- Building machine learning models for energy forecasting
+- Preparing for PhD applications in computational energy systems
+- Expanding my GitHub portfolio with deep learning and dashboard projects
 
 ## 📬 Let’s Connect
-- [LinkedIn](www.linkedin.com/in/james-lucas-etot-pmp-01b707124)  
+- [LinkedIn](https://www.linkedin.com/in/jameslucasetot256)
 - GitHub: [jameslucasetot256](https://github.com/jameslucasetot256)
