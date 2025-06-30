@@ -9,7 +9,7 @@ I have experience in the oil and gas industry, where I focused on field operatio
 - Time-series forecasting (ARIMA, SARIMA)
 - Process automation (VBA, Python)
 - Energy systems, sustainability, and data-driven optimization
-- Future interest: TensorFlow, LSTM models, dashboard development
+- TensorFlow, LSTM models, dashboard development
 
 ## 📂 Featured Projects
 - [Energy Consumption Forecasting](https://github.com/jameslucasetot256/energy-consumption-forecasting)
